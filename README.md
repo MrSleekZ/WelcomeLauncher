@@ -18,7 +18,7 @@ Fixed Dates,
 Added WelcomeLauncher to GitHub.
 </details>
 
-
+------------------------------
 How to configure:
 1. Download WelcomeLauncher via Github
 2. Press the windows key + R at the same time, a box should appear saying 'Run'.
