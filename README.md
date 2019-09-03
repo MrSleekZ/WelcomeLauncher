@@ -6,16 +6,13 @@
 <details>
 <summary>Change Log</summary>
 
+## Version 1.4,
+* **Fixed Code**
+* **Version 1.4**
+* **Fixed Code**
+* **Added Basic UI**
+* **Fixed Dates**
 
-Version 1.4,
-
-Fixed code,
-
-Added a UI,
-
-Fixed Dates,
-
-Added WelcomeLauncher to GitHub.
 </details>
 
 ------------------------------
