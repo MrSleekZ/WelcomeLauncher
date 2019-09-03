@@ -1,5 +1,5 @@
 # WelcomeLauncher
-* **A basic CMD UI welcoming you every time you startup your PC!**
+* *A basic CMD UI welcoming you every time you startup your PC!**
 
 Made by MrSleekZ on 22/02/2019 (Version 1)
 
